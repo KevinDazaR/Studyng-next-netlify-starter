@@ -20,15 +20,15 @@ export default function Home() {
 
     <h3>C#</h3>
       <span> 
-    using System;
-    class Program
-    {
-        static void Main()
-        {
-            Console.WriteLine("Hola Mundo");
-        }
-    }
- </span>
+          using System;
+          class Program
+          {
+               void Main()
+              {
+                  Console.WriteLine("Hola Mundo");
+              }
+          }
+     </span>
 
    <h3>JavaScript</h3>
    <span>  public class HolaMundo {
