@@ -15,6 +15,39 @@ export default function Home() {
         <p className="description">
           Kevin Daza Ramìrez
         </p>
+    <h3>JavaScript</h3>
+      <span>console.log("¡Hola mundo Js");</span>
+
+    <h3>C#</h3>
+      <span> 
+    using System;
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Hola Mundo");
+        }
+    }
+ </span>
+
+   <h3>JavaScript</h3>
+   <span>  public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("Hola Mundo");
+    }
+} </span>
+ 
+   <h3>Node Js</h3>
+   <span>console.log("Hola Mundo");
+
+ </span>
+
+     <h3>Php</h3>
+   <span><?php
+echo "Hola Mundo";
+?>
+ </span>
+      
       </main>
 
       <Footer />
