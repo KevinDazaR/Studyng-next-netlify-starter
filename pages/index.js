@@ -25,7 +25,7 @@ export default function Home() {
      </span>
 
    <h3>JavaScript</h3>
-   <span>  public class HolaMundo {
+   <span>  public class HolaMundo 
         System.out.println("Hola Mundo"); </span>
  
    <h3>Node Js</h3>
