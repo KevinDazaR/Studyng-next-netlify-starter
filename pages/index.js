@@ -20,22 +20,13 @@ export default function Home() {
 
     <h3>C#</h3>
       <span> 
-          using System;
-          class Program
-          {
-               void Main()
-              {
+        
                   Console.WriteLine("Hola Mundo");
-              }
-          }
      </span>
 
    <h3>JavaScript</h3>
    <span>  public class HolaMundo {
-    public static void main(String[] args) {
-        System.out.println("Hola Mundo");
-    }
-} </span>
+        System.out.println("Hola Mundo"); </span>
  
    <h3>Node Js</h3>
    <span>console.log("Hola Mundo");
@@ -43,9 +34,9 @@ export default function Home() {
  </span>
 
      <h3>Php</h3>
-   <span><?php
+   <span>?php
 echo "Hola Mundo";
-?>
+?
  </span>
       
       </main>
